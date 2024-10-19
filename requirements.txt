@@ -1,0 +1,14 @@
+   numpy
+   pandas
+   opencv-python-headless
+   tensorflow==2.15.0
+   keras==2.15.0
+   Flask
+   flask-cors
+   mtcnn
+   retina-face
+   deepface==0.0.79
+   face_recognition
+   bcrypt
+   scikit-learn
+   SpeechRecognition
